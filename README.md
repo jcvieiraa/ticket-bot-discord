@@ -1,6 +1,6 @@
 # Ticket Bot
 
-Criador - https://github.com/Xiaotoxdev/ticket-bot.git
+Criated by: https://github.com/Xiaotoxdev/ticket-bot.git
 
 Ticket Bot is a discord ticket bot with buttons made with Discord.js v13
 
